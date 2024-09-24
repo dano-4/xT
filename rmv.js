@@ -55,6 +55,10 @@
             teamPlayersList.remove();
         }
 
+        var freeCoins = document.getElementById(`pf-free-coins-btn`);
+        if (freeCoins) {
+            freeCoins.remove();
+        }
     }
 
     window.addEventListener('load', removeAdsAndSocialSidebar);
