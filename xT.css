@@ -102,7 +102,7 @@ input, select, textarea {
 
 #menu .main-menu .panel.right .list-container {
     background: #1a1a1a;
-    height: 485px;
+    height: 463px;
 }
 
 #server-list {
@@ -269,7 +269,7 @@ input, select, textarea {
 }
 
 #menu .main-menu .panel.right .list-container .list-row {
-    height: 27.5px;
+    height: 25.5px;
 }
 
 #account-box .account-profile {
@@ -279,3 +279,8 @@ input, select, textarea {
 #main-left-panel {
     height: fit-content;
 }
+
+#account-box .account-profile .account-panel {
+    background-color: transparent;
+}
+
